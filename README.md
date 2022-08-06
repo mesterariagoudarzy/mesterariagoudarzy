@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making Telegram bots
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on Making Telegram bots
-- 📫 How to reach me Email: ariyagoudarzy@yahoo.com / PhoneNumber: +989034392835
+- 📫 How to reach me Email: ariyagoudarzy@yahoo.com / Telegram: https://t.me/+989034392835
 
 <!---
 mesterariagoudarzy/mesterariagoudarzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
